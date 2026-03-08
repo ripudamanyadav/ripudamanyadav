@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=4767&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&height=80&lines=Hello!+I'm+Ripudaman)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Caveat&size=40&duration=4767&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&height=80&lines=Hello!+I'm+Ripudaman" alt="Typing SVG" /></a>
 I am an Engineering Student from Indore, India.
 
 -🎓 B.Tech Student  
