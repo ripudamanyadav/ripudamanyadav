@@ -14,7 +14,7 @@
 
 ## 🏆 Holopin Badges
 
-[![An image of @yourusername's Holopin badges](https://holopin.io/api/user/board?user=yourusername)](https://holopin.io/@yourusername)
+[![An image of @ripudamanyadav's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ripudamanyadav)](https://holopin.io/@ripudamanyadav)
 
 ## 📊 GitHub Stats
 
