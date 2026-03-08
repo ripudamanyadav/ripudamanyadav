@@ -1,5 +1,9 @@
-# Hey there! I'm Ripudaman 👋
+<meta charset="UTF-8">
 
+<h1 align="center"> # Hey there! I'm Ripudaman 👋</h1>
+
+<div align="center">
+  
 🎓 B.Tech Student  
 💻 Learning C, C++ and Web Development  
 🌱 Currently improving my coding skills  
