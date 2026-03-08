@@ -31,5 +31,5 @@
 
 ### 🎧 Listening To:
 <p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31eygxwjrl22y56m5qg32u6wblye&count=1" alt="Spotify Recently Played" />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31eygxwjrl22y56m5qg32u6wblye&count=1&width=450&type=vertical" alt="Spotify Recently Played" />
 </p>
