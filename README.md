@@ -29,7 +29,7 @@
 
 [![🔥GitHub Stats](https://github-readme-stats.vercel.app/api?username=ripudamanyadav&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-### 🎧 Listening To:
+<h3 align="center">🎧 Currently Jamming To:</h3>
 <p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31eygxwjrl22y56m5qg32u6wblye&count=1&width=450&type=vertical" alt="Spotify Recently Played" />&cache_seconds=60
+  <img src="https://now-playing-cards.vercel.app/now-playing/q?uid=31eygxwjrl22y56m5qg32u6wblye&size=large&theme=colorblock" alt="Spotify Now Playing" />
 </p>
