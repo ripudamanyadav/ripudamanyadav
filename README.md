@@ -1,13 +1,13 @@
-<meta charset="UTF-8">
-
-<h1 align="center"> # Hey there! I'm Ripudaman 👋</h1>
-
 <div align="center">
-  
+
+# Hey there 👋 I'm Ripudaman
+
+</div>
+I am an Engineering Student from Indore, India.
+
 🎓 B.Tech Student  
-💻 Learning C, C++ and Web Development  
-🌱 Currently improving my coding skills  
-📍 India
+Reach me on: ripudaman126@gmail.com
+Linkedin Profile: https://linkedin.com/in/ripudaman-yadav-0a6200390
 
 ## 🛠 Languages and Tools
 
