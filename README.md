@@ -1,21 +1,22 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&size=63&pause=1000&color=80D8F7&center=true&vCenter=true&width=600&height=80&lines=Hello!+I'm+Ripudaman)](https://git.io/typing-svg)
 
-I am an Engineering Student from Indore, India.
+# **Engineering Student from Indore, India**
 
 -🎓 B.Tech Student 
-
--Reach me on: ripudaman126@gmail.com
-
--Linkedin Profile: https://linkedin.com/in/ripudaman-yadav-0a6200390
+-📬-Reach me on: ripudaman126@gmail.com
+-🤝Linkedin Profile: https://linkedin.com/in/ripudaman-yadav-0a6200390
 
 ## 🛠 Languages and Tools
 
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
-![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
-![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML-005571?style=for-the-badge&logo=HTML">
+  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+</div>
 
 ## 🏆 Holopin Badges
 
