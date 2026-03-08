@@ -28,3 +28,5 @@
 ## 📊 GitHub Stats
 
 [![🔥GitHub Stats](https://github-readme-stats.vercel.app/api?username=ripudamanyadav&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31eygxwjrl22y56m5qg32u6wblye)
