@@ -16,6 +16,7 @@
 
 [![An image of @ripudamanyadav's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ripudamanyadav)](https://holopin.io/@ripudamanyadav)
 
+
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ripudamanyadav&show_icons=true)
