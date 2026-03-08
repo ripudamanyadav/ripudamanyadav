@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hey there! I'm Ripudaman 👋
 
-<!--
-**ripudamanyadav/ripudamanyadav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Student  
+💻 Learning C, C++ and Web Development  
+🌱 Currently improving my coding skills  
+📍 India
 
-Here are some ideas to get you started:
+## 🛠 Languages and Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
+![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
+
+## 🏆 Holopin Badges
+
+[![An image of @yourusername's Holopin badges](https://holopin.io/api/user/board?user=yourusername)](https://holopin.io/@yourusername)
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
