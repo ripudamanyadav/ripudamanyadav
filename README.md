@@ -25,11 +25,4 @@
 [![An image of @ripudamanyadav's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ripudamanyadav)](https://holopin.io/@ripudamanyadav)
 
 
-## 📊 GitHub Stats
 
-[![🔥GitHub Stats](https://github-readme-stats.vercel.app/api?username=ripudamanyadav&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-<h3 align="center">🎧 Currently Jamming To:</h3>
-<p align="center">
-  <img src="https://now-playing-cards.vercel.app/now-playing/q?uid=31eygxwjrl22y56m5qg32u6wblye&size=large&theme=colorblock" alt="Spotify Now Playing" />
-</p>
