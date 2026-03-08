@@ -1,9 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&size=63&pause=1000&color=80D8F7&center=true&vCenter=true&width=600&height=80&lines=Hello!+I'm+Ripudaman)](https://git.io/typing-svg)
 
-# **Engineering Student from Indore, India**
+# **👨‍🏫Engineering Student from Indore, India**
 
 -🎓 B.Tech Student 
+
 -📬-Reach me on: ripudaman126@gmail.com
+
 -🤝Linkedin Profile: https://linkedin.com/in/ripudaman-yadav-0a6200390
 
 ## 🛠 Languages and Tools
